@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GIT_REPOS/RevivalJam/Game/RevivalJamGame/Content/ShootingTarget.uasset",
+				"D:/GIT_REPOS/RevivalJam/Game/RevivalJamGame/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"C:/Users/AniolMoratoGil/Desktop/RevivalJam/Game/RevivalJamGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/AniolMoratoGil/Desktop/RevivalJam/Game/RevivalJamGame/Content/ShootingTarget.uasset",
 				"C:/Users/AniolMoratoGil/Desktop/RevivalJam/Game/RevivalJamGame/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
